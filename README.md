@@ -41,3 +41,7 @@ plot_stability_region(conditions, N, D, plot_id="example")
 This will produce an image named `stability_PID_example.png`:
 
 ![Stability Region Example](stability_PID_example.png)
+
+## References
+
+- Ming-Tzu Ho, A. Datta and S. P. Bhattacharyya, "[A linear programming characterization of all stabilizing PID controllers](https://ieeexplore.ieee.org/abstract/document/609624)," Proceedings of the 1997 American Control Conference (Cat. No.97CH36041), Albuquerque, NM, USA, 1997, pp. 3922-3928 vol.6, doi: 10.1109/ACC.1997.609624.
