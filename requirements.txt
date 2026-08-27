@@ -1,0 +1,7 @@
+git+https://github.com/sympy/sympy.git
+jupyterlab
+ipywidgets
+numpy
+matplotlib
+k3d
+tqdm
